@@ -36,3 +36,12 @@ body {
 .btn:focus {
   outline: none;
 }
+
+@media screen and (max-width: 600px) {
+  body {
+    flex: column;
+  }
+  .btn {
+    padding: 0.8rem;
+  }
+}

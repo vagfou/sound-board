@@ -1,4 +1,4 @@
-const sounds = ['arxidi', 'kantilakia', 'klaparxido', 'krouasan', 'mama_ponaw', 'olo_vlakeies', 'poustopapas', 'xristosas']
+const sounds = ['arxidi', 'kantilakia', 'klaparxido', 'krouasan', 'mama ponaw', 'olo vlakeies', 'poustopapas', 'xristosas']
 
 sounds.forEach(sound => {
     const btn = document.createElement('button')
